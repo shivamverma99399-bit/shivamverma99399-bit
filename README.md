@@ -1,7 +1,3 @@
-
-
-# 💻 Tech Stack:
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shivamverma99399-bit&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shivamverma99399-bit&theme=jolly&hide_border=false)<br/>
