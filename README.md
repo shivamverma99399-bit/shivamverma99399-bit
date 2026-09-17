@@ -1,6 +1,3 @@
-# 💫 About Me:
-I’m currently working on<br>→ Building real-world projects in Web Development and AI, focused on creating scalable and impactful products<br><br>I’m looking to collaborate on<br>→ Innovative tech projects, startups, and ideas that solve practical problems<br><br>I’m looking for help with<br>→ Advanced system design, backend scaling, and turning projects into production-ready products<br><br>I’m currently learning<br>→ Django, backend architecture, APIs, and gradually exploring MERN & modern AI tools<br><br>Ask me about<br>→ Python, frontend development, project building, and startup ideas<br><br>Fun fact<br>→ I believe in learning by building and aim to create things that people actually use
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bVbkkmT3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vijayyuvraj7079) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-vijay-verma-320574388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamverma99399@gmail.com) 
